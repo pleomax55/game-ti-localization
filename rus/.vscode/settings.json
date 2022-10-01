@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.ru": "csv (equals)",
+    "*.rus": "csv (equals)"
+  }
+}
